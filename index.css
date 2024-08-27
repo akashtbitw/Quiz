@@ -39,11 +39,11 @@ body {
 }
 
 .game {
-    display: none;
+    /* display: none; */
 }
 
 .result {
-    /* display: none; */
+    display: none;
     text-align: center;
     padding: 50px;
 }
